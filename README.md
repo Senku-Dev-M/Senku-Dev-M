@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋, I'm Rodrigo Machaca<br>A software engineering student at Jala University with a technical background in industrial informatics. Passionate about backend development.<br><br>🔭 I’m currently working on a dermatological analysis project with AI at Incuba Union Tecnológico.<br>👯 I’m looking to collaborate on web application development, especially backend projects.<br>🤝 I’m looking for help with improving my AI project.<br>🌱 I’m currently learning Python, TypeScript, and Angular.<br>💬 Ask me about backend development with Java & Spring Boot, robotics with Arduino, and SQL databases.<br>⚡ Fun fact:  My best ideas come to me right before I fall asleep.<br>
 
+[![Website](https://img.shields.io/badge/Website-rodrigomachaca.carrd.co-blue?style=flat-square&logo=google-chrome)](https://rodrigomachaca.carrd.co/)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rodrigoml2) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/RodrigoMl2/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rodrigo_ml_1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beimar-rodrigo-machaca-aruquipa-2052b1267/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@senkudev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rodrigo.Machaca@jala.university) 
