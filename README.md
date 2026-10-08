@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi 👋, I'm Rodrigo Machaca<br>A software engineering student at Jala University with a technical background in industrial informatics. Passionate about backend development.<br><br>🔭👯 I’m looking to collaborate on web application development, especially backend projects.<br>🤝 I’m looking for help with improving my AI project.<br>🌱 I’m currently learning Python, TypeScript, and Angular.<br>💬 Ask me about backend development with Java & Spring Boot, robotics with Arduino, and SQL databases.<br>⚡ Fun fact:  My best ideas come to me right before I fall asleep.<br>
 
-[![Website](https://img.shields.io/badge/Website-rodrigomachaca.carrd.co-blue?style=flat-square&logo=google-chrome)](https://rodrigomachaca.carrd.co/)
+[[![Website](https://img.shields.io/badge/Website-rodrigomachaca.carrd.co-blue?style=flat-square&logo=google-chrome)](https://rodrigomachaca.carrd.co/)](https://rodrigo-tech-portfolio-v2.vercel.app/)
 
 
 ## 🌐 Socials:
